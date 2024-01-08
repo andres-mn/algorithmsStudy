@@ -1,0 +1,13 @@
+
+f(x) = x
+
+f is O of : x, 2x, 3x, x**2, x**3, 3**x, 3**7
+
+g(x) = x**3
+
+g is Omega of : x**3, 2x**3, x, logx
+
+
+f(x) = x is theta of x
+
+g(x) = x**3 is theta of x***3
